@@ -90,4 +90,3 @@ npm run dev             # opens at :5173
 - For high-fidelity diarization, swap in `pyannote.audio` or `whisperX` downstream of whisper.cpp.
 - All endpoints documented at `/docs` (Swagger).
 
-See docs/API.md and docs/TECHNICAL_WRITEUP.md for more details.
